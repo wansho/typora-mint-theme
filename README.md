@@ -4,6 +4,8 @@ A fresh mint theme for typora.
 <p align="center">
 <img src="https://cdn140.picsart.com/264182024029212.png?type=webp&to=min&r=640" width="120px" />
 </p>
+
+
 ## 定制修改
 
 优化了 `mint.css` 的 code block 样式，之前的对比度太高了。
